@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in data scienece in the fields of biology and finance. My strengths are python and R scripting, particularly with the goal of intuitive publicatoin-ready visualizations for large and complex data sets.
 
-- 🌱 I’m currently learning to implement neural networks for non-linear modeling.
+- 🌱 I’m currently learning to apply fractal mathematics and neural networks.
 
 - 📫 Contact me at https://www.linkedin.com/in/andrew-kettring-b84696a8/
 
