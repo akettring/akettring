@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akettring, jack-of-all-trades with a Master of Science in Biotechnology.
+- 👋 Hi, I’m @akettring, jack-of-all-trades with a master's degree in Biotechnology.
 
 - 👀 I’m interested in data scienece in the fields of biology and finance. My strengths are python and R scripting, particularly with the goal of producing intuitive publicatoin-ready visualizations for large and complex data sets.
 
