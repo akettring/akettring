@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akettring
 
-- 👀 I’m interested in data scienece in the fields of biology and finance.
+- 👀 I’m interested in data scienece in the fields of biology and finance. My strengths are python and R scripting, particularly with the goal of intuitive publicatoin-ready visualizations for large and complex data sets.
 
 - 🌱 I’m currently learning to implement neural networks for non-linear modeling.
 
